@@ -1,0 +1,11 @@
+.btnWrapper {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  margin-block-start: 48px;
+  margin-block-end: 32px;
+}
+.button {
+  background-color: lightgray;
+  color: black;
+}
